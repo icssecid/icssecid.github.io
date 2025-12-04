@@ -4,6 +4,8 @@
 
 layout: home
 ---
+# ICS Security Indonesia
+
 Kami adalah komunitas terbuka bagi siapa pun yang memiliki ketertarikan pada **keamanan OT/ICS di Indonesia**. Jika kamu ingin berkembang, berdiskusi, dan terhubung dengan para profesional di bidang ini, mari bergabung bersama kami.
 
 ### Cara Bergabung
